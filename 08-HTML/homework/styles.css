@@ -1,0 +1,17 @@
+h1 {
+    color: darkred;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: grey;
+    padding: 50px;
+    border: 20px solid rebeccapurple;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
