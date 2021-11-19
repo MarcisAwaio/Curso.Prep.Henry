@@ -337,7 +337,6 @@ function esVocal(letra){
   }
     return "Dato ncorrecto";
   }
-}
 
 
 
